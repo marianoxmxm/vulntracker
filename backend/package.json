@@ -1,0 +1,14 @@
+{
+  "name": "vuintracker-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+  "dev": "nodemon src/app.js",
+  "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand",
+  "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage --runInBand"
+},
+  "keywords": [],
+  "author": "Mariano Medici",
+  "license": "ISC"
+}
