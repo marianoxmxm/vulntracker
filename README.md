@@ -165,13 +165,13 @@ Una vez levantado, acceder a:
  
 ### Dashboard de Seguridad
  
-![Dashboard de Seguridad](./docs/imagen1.png)
+![Dashboard de Seguridad](./docs/Imagen1.png)
  
 > Métricas consolidadas: total de hallazgos, distribución por severidad (Critical, High, Medium, Low, Info) y por estado (Open, In Progress, Resolved).
  
 ### Gestión de Hallazgos (CRUD)
  
-![Gestión de Hallazgos](./docs/imagen2.png)
+![Gestión de Hallazgos](./docs/Imagen2.png)
  
 > Pantalla principal con formulario de registro, filtros por severidad y estado, y tabla con acciones de edición y eliminación.
  
