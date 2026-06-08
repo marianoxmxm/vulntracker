@@ -2,7 +2,7 @@ import request from 'supertest';
 import app from '../src/app.js';
 import { seedDatabase } from '../src/store/index.js';
 
-describe('=== VuinTracker API Endpoints Test Suite ===', () => {
+describe('=== VulnTracker API Endpoints Test Suite ===', () => {
   
   // Antes de cada test, reseteamos la base de datos en memoria para que esté limpia y predecible
   beforeEach(() => {
