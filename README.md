@@ -1,13 +1,5 @@
 # VulnTracker - Plataforma de Seguimiento de Vulnerabilidades
  
-Este proyecto es el Trabajo Práctico Integrador para la materia **Arquitectura Web** de la **Universidad de Palermo**.
- 
-**Profesor:** Diego MARAFETTI , Adrian Ezequiel MARTINEZ
-
-**Estudiante:** Mariano MEDICI
-
-**Legajo:** 112570
- 
 ---
  
 ## 📋 Descripción
